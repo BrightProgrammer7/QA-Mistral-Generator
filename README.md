@@ -45,9 +45,15 @@ This project is a Question Answer Generation App that leverages the Mistral 7B m
     - **Parameters**:
         - `pdf_filename`: The name of the uploaded PDF file.
 
+## Video Demonstration
+Watch the video below to see a demonstration of the Question Answer Generation App in action:
+
+![Watch the Demo](QA Mistral Generator.mp4)
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-"# QA-Mistral-Generator" 
+
+"# QA-Mistral-Generator"
