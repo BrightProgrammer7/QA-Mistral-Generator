@@ -48,7 +48,7 @@ This project is a Question Answer Generation App that leverages the Mistral 7B m
 ## Video Demonstration
 Watch the video below to see a demonstration of the Question Answer Generation App in action:
 
-![Watch the Demo](QA Mistral Generator.mp4)
+![Watch the Demo](QA%20Mistral%20Generator.mp4)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
